@@ -1,5 +1,5 @@
 /**
- * This file contain sign up app to demonstrate the use of variables and datatype.
+ * This file contain coercion demo.
  * 
  * @author premaluu
  * @since 24 Feb 2022
